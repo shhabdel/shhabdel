@@ -1,7 +1,6 @@
 ## 👋  Hi everyone, I'm Sara!
-- 👩🏽‍🎓  I'm a fourth year student at the Universiy of Waterloo, majoring in CS and minoring in statistics, with a 90.40% GPA.
+- 👩🏽‍🎓  I'm a fourth year student at the University of Waterloo, majoring in CS and minoring in statistics, with a 91.09% GPA.
 - 💻  I'm intersted in Embedded programming, Computer Vision, as well as Data Science and Machine Learning.
-- 📈  I'm currently learning about Machine Learning, specifically Neural Networks. If you're interested, you can follow my progress [here](https://github.com/shhabdel/learning-ml)! 
 - 🏀  I'm very passionate about sports and my goal in the future is to use technology to make sports safer, more enjoyable, and more accesible to everyone!
 
 ## 👩🏽‍💼 Internship Experiences 
