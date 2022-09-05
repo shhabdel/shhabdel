@@ -11,7 +11,7 @@
 - 🍁 **Fall 2019** at **SPS Commerce**: As a Software Engineering Associate at SPS Commerce, I worked on the [Assortement](https://www.spscommerce.com/products/assortment/) product that facilitates sharing product data with trading partners.
 - ❄️ **Winter 2019** at **Uptake Canada**: As a Software Developer, I worked on [SalesLink](https://www.uptake.com/dealer/sales-solutions#industrial-crm), an industrical CRM.
 
-I'm excited to return to ❄️Snowflake❄️ as a full-time Software Engineer to continue my work with the Snowpark Team!  
+❄️ I'm excited to return to Snowflake as a full-time Software Engineer to continue my work with the Snowpark Team! ❄️
 
 ## Contact Info 
 [LinkedIn](https://www.linkedin.com/in/sara-abdelrahman-975950148/) | [Email](shhabdel@uwaterloo.ca)
