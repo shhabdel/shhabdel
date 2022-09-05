@@ -1,6 +1,6 @@
 ## 👋  Hi everyone, I'm Sara!
 - 👩🏽‍🎓  I'm just graduate from the University of Waterloo, majoring in CS and minoring in statistics, with a 91% GPA.
-- 💻  My favourite language is C++ and I'm interested in Embedded Systems, Computer Vision, as well as Data Science and Machine Learning.
+- 💻  I'm interested in Embedded Systems, Computer Vision, as well as Data Science and Machine Learning.
 - 🏀  I'm very passionate about sports and my goal in the future is to use technology to make sports safer, more enjoyable, and more accesible to everyone!
 
 ## 👩🏽‍💼 Internship Experiences 
